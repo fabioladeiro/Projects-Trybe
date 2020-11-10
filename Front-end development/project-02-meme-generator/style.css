@@ -1,0 +1,27 @@
+body {
+  background-color: pink;
+  margin: 25px;
+}
+
+.meme-image {
+  position: absolute;
+}
+
+.meme-image-container {
+  background-color: white;
+  border: 1px solid black;
+  height: 325px;
+  width: 325px;
+}
+
+.selectedOne {
+  border: 3px dashed red;
+}
+
+.selectedTwo {
+  border: 5px double blue;
+}
+
+.selectedThree {
+  border: 6px groove green;
+}

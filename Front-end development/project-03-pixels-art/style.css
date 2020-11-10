@@ -1,0 +1,61 @@
+body {
+  background-color: white;
+  text-align: center;
+}
+
+/* O quadro de pixels deve aparecer abaixo da paleta de cores */
+.color-palette {
+  position: relative;
+  top: 25px;
+}
+
+/* A cor preta deve ser a primeira na paleta de cores */
+.firstColor {
+  background-color: black;
+}
+
+.secondColor {
+  background-color: green;
+}
+
+.thirdColor {
+  background-color: blue;
+}
+
+.fourthColor {
+  background-color: red;
+}
+
+.pixel-board {
+  font-size: 0;
+  height: 210px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 45px;
+  width: 210px;
+  
+}
+
+/* A cor inicial dos pixels, ao abrir a página, deve ser branca. */
+/* Cada pixel do quadro de pixels deve possuir 40 pixels de largura e 40 pixels de altura e ser delimitado por uma margem preta de 1 pixel */
+.pixel {
+  background-color: white;
+  border: 1px solid black;
+  display: inline-block;
+  height: 40px;
+  left: auto;
+  width: 40px;
+}
+
+.color {
+  border: 1px solid black;
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+}
+
+.botao {
+  position: relative;
+  top: 70px;
+}
