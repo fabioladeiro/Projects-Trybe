@@ -1,0 +1,12 @@
+.recomendations {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  overflow-x: scroll;
+  width: 100%;
+  margin-bottom: 75px;
+}
+
+.recomendations-card {
+  margin: 10px;
+}

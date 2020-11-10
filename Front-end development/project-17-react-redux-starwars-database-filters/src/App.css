@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  /* background-image: url('https://images3.alphacoders.com/216/216545.jpg'); */
+  text-align: center;
+}
+
+.container-search {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+}

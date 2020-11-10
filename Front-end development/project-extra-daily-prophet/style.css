@@ -1,0 +1,206 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  text-indent: 20px;
+}
+
+.total-page {
+  background-color: white;
+  border-radius: 15px;
+  padding: 1%;
+  width: 90%;
+}
+
+.nav-bar {
+  border-bottom: 6px double black;
+  display: flex;
+  font-family: Girassol, cursive;
+  font-size: 1.5em;
+  justify-content: space-around;
+}
+
+.container-orientation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.title {
+  animation: skewing 5s;
+  display: flex;
+  font-family: Girassol, cursive;
+  font-size: 1.8em;
+  width: 65%;
+}
+
+@keyframes skewing {
+
+  0% {
+    transform: skew(0deg);
+  }
+
+  100% {
+    transform: skew(180deg);
+  }
+}
+
+.fly {
+  animation-delay: 3s;
+  animation-direction: alternate;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 3;
+  animation-name: flying;
+}
+
+@keyframes flying {
+
+  from {
+    margin-left: 0;
+    margin-top: 0;
+  }
+
+  50% {
+    margin-left: -300%;
+    margin-top: 40%;
+  }
+
+  75% {
+    margin-left: -450%;
+    margin-top: 40%;
+  }
+
+
+  to {
+    margin-left: 0;
+    margin-top: 0;
+  }
+}
+
+.container-layout {
+  animation: translating 1s infinite alternate 10s;
+  border-radius: 15px;
+  font-style: italic;
+  line-height: 150%;
+  padding: 1%;
+  text-align: justify;
+}
+
+@keyframes translating {
+
+  from {
+    transform: translateY(20px);
+  }
+
+  to {
+    transform: translateY(-20px);
+  }
+}
+
+.container-subtitle {
+  animation-delay: 7s;
+  animation-duration: 3s;
+  animation-name: scaling;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+@keyframes scaling {
+
+  from {
+    transform: scale(0.5, 2);
+  }
+
+  50% {
+    transform: scale(1.5, 0.5);
+  }
+
+  to {
+    transform: scale(1, 1);
+  }
+}
+
+.container-all {
+  border: 1px solid black;
+}
+
+.container-article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  line-height: 150%;
+  padding: 1%;
+  text-align: justify;
+}
+
+.img-jornalista {
+  transition: width 2s;
+  width: 150px;
+}
+
+.img-jornalista:hover {
+  width: 250px;
+}
+
+.container-text {
+  line-height: 150%;
+  padding: 1%;
+  text-align: justify;
+}
+
+.article-animation {
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+  animation-name: article-grow;
+  animation-play-state: paused;
+  animation-timing-function: steps(4);
+  cursor: pointer;
+
+}
+
+@keyframes article-grow {
+
+  from {
+    font-weight: 400;
+    width: 48%;
+  }
+
+  to {
+    font-weight: 700;
+    width: 98%;
+  }
+}
+
+@media screen and ( max-width : 760px ) {
+
+  .container-layout {
+    background-color: yellow;
+    color: black;
+  }
+
+  .title {
+    font-size: 1.2em;
+  }
+}
+
+@media screen and ( min-width : 1170px ) {
+
+  .container-layout {
+    background-color: red;
+    color: white;
+  }
+}
+
+@media ( orientation : landscape ) {
+
+  .container-orientation {
+    border: 1px solid red;
+  }
+}
