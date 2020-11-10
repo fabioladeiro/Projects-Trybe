@@ -9,6 +9,7 @@ The program has more than **1,500 hours** of classroom and online classes and co
 ## Front-end development :white_check_mark:
 #### HTML & CSS
 - *[Project - HTML & CSS](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-01-html-css)*
+- *[Project - Daily Prophet](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-01-html-css)*
 #### JavaScript
 - *[Project - Meme Generator](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-02-meme-generator)*
 - *[Project - Art with Pixels](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-03-pixels-art)*
