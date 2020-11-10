@@ -1,0 +1,86 @@
+
+body {
+    margin: 0px;
+    background-color: rgb( 175, 136, 136);
+    font-family: "Comic Neue", cursive;
+}
+#cabecalho {
+    position: fixed;
+}
+.cabecalho1 ul {
+    position: fixed;
+    margin: 0px;
+    background-color:black;
+    list-style: none; 
+    width: 1450px;
+}
+.cabecalho1 ul li {
+    display: inline;
+}
+.cabecalho1 ul li a {
+    padding: 10px 10px;
+    display: inline-block;
+    color:white;
+    text-decoration: none;
+}
+.title {
+    text-align: left;
+    padding: 50px 5px 5px 50px;
+    margin-left: 280px;
+}
+.article {
+    text-align: left justify;
+    margin-left: 165px;
+    width: 800px;
+}
+.aside {
+    text-align: left;
+    margin-left: 165px;
+    width: 800px;
+    text-align: justify;
+}
+.section {
+    text-align: left;
+    margin-left: 165px;
+    width: 800px;
+    text-align: justify;
+}
+#picture {
+    margin-left: -40px;
+    margin-top: 20px;
+}
+#rodape {
+    background-color: black;
+    color:white;
+    margin: 0px;
+    padding: 20px;
+}
+.lado-esquerdo {
+    position: absolute;
+    top: 37.3cm;
+    left: 1cm;
+}
+.lado-esquerdo a {
+    text-decoration: none;
+    color:white;
+}
+.lado-direito {
+    position: absolute;
+    top: 37.3cm;
+    left: 3.5cm;
+    text-decoration: none;
+    color:white;   
+}
+.lado-direito a {
+    text-decoration: none;
+    color:white;
+}
+.table {
+    border: 1px solid black;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.table td {
+    border: 1px solid black;
+}
