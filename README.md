@@ -8,55 +8,55 @@ The program has more than **1,500 hours** of classroom and online classes and co
 
 ## Front-end development :white_check_mark:
 #### HTML & CSS
-- *[Project - HTML & CSS](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-01-html-css)*
-- *[Project - Daily Prophet](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-01-html-css)*
+- *[Project - HTML & CSS]()*
+- *[Project - Daily Prophet]()*
 #### JavaScript
-- *[Project - Meme Generator](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-02-meme-generator)*
-- *[Project - Art with Pixels](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-03-pixels-art)*
-- *[Project - To Do List](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-04-todo-list)*
-- *[Project - Guess the Color](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-05-color-guess)*
-- *[Project - Mysterious Card](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-06-mistery-letter)*
+- *[Project - Meme Generator]()*
+- *[Project - Art with Pixels]()*
+- *[Project - To Do List]()*
+- *[Project - Guess the Color]()*
+- *[Project - Mysterious Card]()*
 #### CSS Flexbox
-- *[Project - Facebook home](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-07-facebook-signup)*
+- *[Project - Facebook home]()*
 #### JavaScript ES6 & Unit Tests
-- *[Project - JavaScript Unit Tests](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-08-js-unit-tests)*
+- *[Project - JavaScript Unit Tests]()*
 #### JavaScript ES6
-- *[Project - Zoo functions](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-09-zoo-functions)*
+- *[Project - Zoo functions]()*
 #### Asynchronicity & Callbacks
-- *[Project - Shopping Cart](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-10-shopping-cart)*
+- *[Project - Shopping Cart]()*
 #### Asynchronous Jest and Mocking
-- *[Project - Asynchronous Jest and Mocking](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-11-jest)*
+- *[Project - Asynchronous Jest and Mocking]()*
 #### Introduction - React Components
-- *[Project - Movie Cards Library](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-12-movie-cards-library)*
+- *[Project - Movie Cards Library]()*
 #### React events and forms
-- *[Project - Movie Cards Library Stateful](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-13-movie-card-library-stateful)*
+- *[Project - Movie Cards Library Stateful]()*
 #### React life cycle and Router
-- *[Project - Movie Cards Library CRUD](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-14-movie-card-library-crud)*
+- *[Project - Movie Cards Library CRUD]()*
 #### React and Agile Methodologies
-- *[Project - Frontend Online Store](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-15-frontend-online-store-01)*
+- *[Project - Frontend Online Store]()*
 #### React Testing Library
-- *[Project - React Tests](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-16-react-testing-library)*
+- *[Project - React Tests]()*
 ##### React & Redux
-- *[Project - Table with data filters](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-17-react-redux-starwars-database-filters)*
+- *[Project - Table with data filters]()*
 #### React & Redux
-- *[Project - Trivia Game](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-18-trivia-game)*
+- *[Project - Trivia Game]()*
 #### React Context API and Hooks
-- *[Project - Datatable StarWars with Context API and Hooks](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-19-starwars-datatable-hooks)*
-- *[Project - Recipe App](https://github.com/deboracosilveira/projects_trybe/tree/master/Front-end%20development/project-20-recipes-app)*
+- *[Project - Datatable StarWars with Context API and Hooks]()*
+- *[Project - Recipe App]()*
 ## Back-end development :hourglass_flowing_sand:
 #### Relational Databases
-- *[Project - All For One](https://github.com/deboracosilveira/projects_trybe/tree/master/Back-end%20development/project-21-mysql-all-for-one)*
+- *[Project - All For One]()*
 #### Relational Databases - JOINS
-- *[Project - Vocabulary Booster](https://github.com/deboracosilveira/projects_trybe/tree/master/Back-end%20development/project-21-mysql-all-for-one)*
+- *[Project - Vocabulary Booster]()*
 #### Data Modeling
-- *[Project - One for All](https://github.com/deboracosilveira/projects_trybe/tree/master/Back-end%20development/project-21-mysql-all-for-one)*
+- *[Project - One for All]()*
 #### Non-Relational Databases
-- *[Project - Data Flights](https://github.com/deboracosilveira/projects_trybe/tree/master/Back-end%20development/project-21-mysql-all-for-one)*
+- *[Project - Data Flights]()*
 #### Non-Relational Databases - Updates
-- *[Project - Commerce](https://github.com/deboracosilveira/projects_trybe/tree/master/Back-end%20development/project-21-mysql-all-for-one)*
+- *[Project - Commerce]()*
 #### Non-Relational Databases - Aggregation Framework
-- *[Project - Aggregations](https://github.com/deboracosilveira/projects_trybe/tree/master/Back-end%20development/project-21-mysql-all-for-one)*
+- *[Project - Aggregations]()*
 #### Introduction - NodeJS
-- *[Project - Cookmaster](https://github.com/deboracosilveira/projects_trybe/tree/master/Back-end%20development/project-21-mysql-all-for-one)*
+- *[Project - Cookmaster]()*
 #### NodeJS - MSC and Rest/Restful
-- *[Project - StoreManager](https://github.com/deboracosilveira/projects_trybe/tree/master/Back-end%20development/project-21-mysql-all-for-one)*
+- *[Project - StoreManager]()*
