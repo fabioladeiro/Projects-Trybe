@@ -45,18 +45,18 @@ The program has more than **1,500 hours** of classroom and online classes and co
 - *[Project - Recipe App](https://github.com/fabioladeiro/Projects-Trybe/tree/main/Front-end%20development/project-20-recipes-app)*
 ## Back-end development :hourglass_flowing_sand:
 #### Relational Databases
-- *[Project - All For One]()*
+- *[Project - All For One](https://github.com/fabioladeiro/Projects-Trybe/tree/main/Back-end%20development/project-21-mysql-all-for-one)*
 #### Relational Databases - JOINS
-- *[Project - Vocabulary Booster]()*
+- *[Project - Vocabulary Booster](https://github.com/fabioladeiro/Projects-Trybe/tree/main/Back-end%20development/project-22-mysql-vocabulary-booster)*
 #### Data Modeling
-- *[Project - One for All]()*
+- *[Project - One for All](https://github.com/fabioladeiro/Projects-Trybe/tree/main/Back-end%20development/project-23-mysql-one-for-all)*
 #### Non-Relational Databases
-- *[Project - Data Flights]()*
+- *[Project - Data Flights](https://github.com/fabioladeiro/Projects-Trybe/tree/main/Back-end%20development/project-24-mongodb-dataflights)*
 #### Non-Relational Databases - Updates
-- *[Project - Commerce]()*
+- *[Project - Commerce](https://github.com/fabioladeiro/Projects-Trybe/tree/main/Back-end%20development/project-25-mongodb-commerce)*
 #### Non-Relational Databases - Aggregation Framework
-- *[Project - Aggregations]()*
+- *[Project - Aggregations](https://github.com/fabioladeiro/Projects-Trybe/tree/main/Back-end%20development/project-26-mongodb-aggregations)*
 #### Introduction - NodeJS
-- *[Project - Cookmaster]()*
+- *[Project - Cookmaster](https://github.com/fabioladeiro/Projects-Trybe/tree/main/Back-end%20development/project-27-cookmaster)*
 #### NodeJS - MSC and Rest/Restful
-- *[Project - StoreManager]()*
+- *[Project - StoreManager](https://github.com/fabioladeiro/Projects-Trybe/tree/main/Back-end%20development/project-28-store-manager)*
