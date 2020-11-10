@@ -8,11 +8,11 @@ The program has more than **1,500 hours** of classroom and online classes and co
 
 ## Front-end development :white_check_mark:
 #### HTML & CSS
-- *[Project - HTML & CSS]()*
+- *[Project - HTML & CSS](https://github.com/fabioladeiro/Projects-Trybe/tree/main/Front-end%20development/project-01-html-css)*
 - *[Project - Daily Prophet]()*
 #### JavaScript
-- *[Project - Meme Generator]()*
-- *[Project - Art with Pixels]()*
+- *[Project - Meme Generator](https://github.com/fabioladeiro/Projects-Trybe/tree/main/Front-end%20development/project-02-meme-generator)*
+- *[Project - Art with Pixels](https://github.com/fabioladeiro/Projects-Trybe/tree/main/Front-end%20development/project-03-pixels-art)*
 - *[Project - To Do List]()*
 - *[Project - Guess the Color]()*
 - *[Project - Mysterious Card]()*
